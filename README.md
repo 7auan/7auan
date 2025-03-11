@@ -107,7 +107,7 @@ Me chamo Tauan Neres, tenho 23 anos e atualmente cursando Análise e desenvolvim
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="147"
+      height="120"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=7auan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
